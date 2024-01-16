@@ -1,0 +1,46 @@
+body{
+    font-family: 'Hanalei', system-ui;
+    background-image: url("Fondo.jpg");
+    background-size: cover;
+}
+h1{
+    border-width: 5px;
+    border-style: dashed;
+    border-color: rgb(27, 184, 184);
+    background-color: white;
+    font-size: 70px;
+    margin: 0px;
+    width: 700px;
+}
+h2{
+    border-width: 5px;
+    border-style: dotted;
+    border-color: darkslategray;
+    background-color: white;
+    font-size: 50px;
+    margin: 0px;
+    width: 600px;
+}
+canvas{
+    background-color: cornflowerblue;
+    border-width: 15px;
+    border-style: ridge;
+    border-color: yellow;
+}
+button{
+    color: blue;
+    background-color: green;
+    font-size: 20px;
+    border-radius: 20px;
+    margin-top: 7px;
+}
+h4{
+    border-width: 2px;
+    border-style: dotted;
+    border-color: rgb(92, 53, 124);
+    background-color: white;
+    font-size: 35px;
+    margin: 0px;
+    width: 400px;
+    margin-top: 7px;
+}
